@@ -1,3 +1,5 @@
+require 'digest'
+
 def lowest_number(str, pattern)
   num = 0
   while true
